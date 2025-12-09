@@ -75,7 +75,7 @@ Système d’arrosage intelligent basé sur **la prédiction de la quantité d�
 ---
 
 ## 👤 Auteur
-- Nom : [ajana abdelali]
-- Formation : [Engineering student | Embedded electronics systems & controls]
+- Nom : Ajana abdelali
+- Formation : Engineering student | Embedded electronics systems & controls
 - Pays : Maroc
-- LinkedIn : [www.linkedin.com/in/abdelali-ajana-27559127]
+- LinkedIn : www.linkedin.com/in/abdelali-ajana-27559127
